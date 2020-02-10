@@ -1,0 +1,16 @@
+.btn-pink {
+	background-color: #FE346E;
+	padding: 15px 20px; 
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+	font-family: "Overpass", sans-serif;
+	font-size: 20px;
+}
+.btn-pink:hover {
+	background-color: #ffbd69;
+	color: black;
+	transition: color 0.3s ease;
+}
+
+

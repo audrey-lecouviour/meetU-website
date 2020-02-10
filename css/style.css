@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass:600|Source+Sans+Pro&display=swap');
+
+@import url(components/avatar.css);
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/container.css);
+@import url(components/card.css);
+
+
+body  {
+	font-family: "Source Sans Pro", sans-serif;
+	color: #0e1950;
+	font-size: 17px;
+	margin: 0px auto;
+}
+
+h1 {
+	font-family: "Overpass", sans-serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
